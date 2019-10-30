@@ -1,0 +1,23 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Irene Nyakate",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "inquirer": "^7.0.0",
+    "mocha": "^6.2.2",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "request": "^2.88.0"
+  },
+  "description": ""
+}
